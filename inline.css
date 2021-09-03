@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Inline style</title>
+</head>
+<body>
+<h1>Estilo Css</h1>
+		
+	<p style="color: red;">
+	Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent hendrerit iaculis lacus, ut ultricies libero gravida a. Fusce pretium hendrerit velit, eget cursus orci. Integer volutpat dolor massa, elementum varius lacus pulvinar id. 
+	</p>
+
+<p style="color: blueviolet;">
+	
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent hendrerit iaculis lacus, ut ultricies libero gravida a. Fusce pretium hendrerit velit, eget cursus orci. Integer volutpat dolor massa, elementum varius lacus pulvinar 
+</p>
+
+</body>
+</html>
