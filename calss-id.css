@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Classes e IDs</title>
+<style type="text/css">
+	p {
+		color: white;
+
+	}
+	h1 {
+		color: orange;
+
+	}
+	.azul {
+		color: orangered;
+	}
+	.verde{
+		color: lightgreen;
+
+	}
+	#principal{
+		background: gray;
+	}
+
+</style>
+
+
+</head>
+<body id="principal">
+<h1>Estilo Css</h1>
+		
+	<p class="azul">
+	Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent hendrerit iaculis lacus, ut ultricies libero gravida a. Fusce pretium hendrerit velit, eget cursus orci. Integer volutpat dolor massa, elementum varius lacus pulvinar id. 
+	</p>
+
+<p>
+	
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent hendrerit iaculis lacus, ut ultricies libero gravida a. Fusce pretium hendrerit velit, eget cursus orci. Integer volutpat dolor massa, elementum varius lacus pulvinar 
+</p>
+
+<h1>Formatação</h1>
+		
+	<p>
+	Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent hendrerit iaculis lacus, ut ultricies libero gravida a. Fusce pretium hendrerit velit, eget cursus orci. Integer volutpat dolor massa, elementum varius lacus pulvinar id. 
+	</p>
+
+<p class="verde">
+	
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent hendrerit iaculis lacus, ut ultricies libero gravida a. Fusce pretium hendrerit velit, eget cursus orci. Integer volutpat dolor massa, elementum varius lacus pulvinar 
+</p>
+
+</body>
+</html>
