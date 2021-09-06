@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="uft-8">
+        <title>Div e Span</title>
+        <style>
+            #topo{
+                background: orchid;
+            }
+            #conteudo{
+                background: rosybrown;
+            }
+            #rodape{
+                background: seagreen;
+            }
+            .produto{
+               background: rgba(250, 70, 5, 0.829);
+            }
+            .hotpink{
+                color: hotpink;
+            }
+        </style>
+
+    </head>
+    <body>
+        <div id="topo">
+            <img src="imagem/amazon.png" width="200">
+            <ul>
+                <li>Home</li>
+                <li>Produtos</li>
+                <li>Contato</li>
+            </ul>
+        </div>
+        <div id="conteudo">
+            <div class="produto">
+                Produto 1
+            </div>
+            <div id="conteudo">
+                <div class="produto">
+                    Produto 1
+                </div>
+                <div id="conteudo">
+                    <div class="produto">
+                        Produto 1
+                    </div>
+
+        </div>
+        <div id="rodape">
+            todos os <span class="hotpink">direitos</span> reservados
+
+        </div>
+            
+
+    </body>
+</html>
