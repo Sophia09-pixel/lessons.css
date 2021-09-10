@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Fontes e cores</title>
+        <meta charset="uft-8">
+        <style type="text/css">
+
+        .formatacao{
+           color:#ff6699 ;
+           font-size: 20px;
+          font-family: "Times New Roman", Times, serif;
+
+        }</style>
+    </head>
+    <body>
+        <h1 class="formatacao">Cabeçalho 1</h1>
+<p>
+    Conteúdo
+   
+</p>
+    </body>
+</html>
