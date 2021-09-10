@@ -1,0 +1,46 @@
+<!doctype html>
+	<!DOCTYPE html>
+	<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Cor e imagem de fundo</title>
+		<style type="text/css">
+			.fundo{
+				background: gray url(imgcss/yoshi.png);
+				background-repeat: repeat-x ;
+				background-attachment: fixed;
+				background-position:  center center ;
+
+			}
+			
+			p{
+				font-weight: 900;
+			}
+
+		</style>
+	</head>
+	<body class="fundo">
+	 <h1 >Conteúdo de título1</h1>
+	 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+	<br><br><br><br><br><br><br><br>
+
+
+
+	  <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+	  <br><br><br><br><br><br><br><br>
+
+	
+
+	  <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+	  <br><br><br><br><br><br><br><br>
+	
+	
+
+	  <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+	  <br><br><br><br><br><br><br><br>
+	
+	
+
+	  <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+	</body>
+	</html>
